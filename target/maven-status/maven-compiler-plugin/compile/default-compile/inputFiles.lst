@@ -1,0 +1,12 @@
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/repository/XrayRepository.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/service/XrayHttpClientService.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/xray/XRayDataSourceConfig.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/exception/XrayControllerAdvice.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/entity/Xray.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/xray/XRayAspect.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/xray/XRayHttpClientConfig.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/dto/XrayDTO.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/controller/XrayController.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/XRayDemoApplication.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/service/XrayService.java
+/Users/kakjzi/Documents/Spring Boot/XRayDemo/src/main/java/com/xray/xray/XRaySegmentConfig.java
